@@ -1,7 +1,7 @@
 # Hi, I'm Shashank H S! 👋
 
 I am a passionate B.Tech graduate from NITK Surathkal, driven by a curiosity for technology. 
-My journey involves delving into the world of computer science, exploring new ideas to be an skillful software developer.
+My journey involves delving into the world of computer science, exploring new ideas and to be a skillful software developer.
 
 ![Shashankhs17's Stats](https://github-readme-stats.vercel.app/api?username=Shashankhs17&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
