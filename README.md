@@ -11,7 +11,7 @@ My journey involves delving into the world of computer science, exploring new id
 
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs,reactjs,mongodb)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs,react,mongodb)](https://skillicons.dev)
 
 ## 🌱 Currently Exploring
 
