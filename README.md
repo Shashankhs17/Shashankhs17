@@ -25,7 +25,7 @@ My journey involves delving into the world of computer science, exploring new id
 
 ## 📬 Get in Touch
 
-- Connect with me on [Linkedin](www.linkedin.com/in/shashank-h-s-hs1712)
+- Connect with me on [Linkedin](https://www.linkedin.com/in/shashank-h-s-hs1712)
 
 Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🚀
 
